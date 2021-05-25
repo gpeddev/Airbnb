@@ -1,0 +1,33 @@
+This is Part 2 of the project.
+
+
+An R Data Object, AirBnB data for assessed project, is provided
+on Moodle with datasets from different cities from over the 
+world. Within the datasets, you have information on Airbnb 
+properties.
+
+A separate file, AirBnB data desciption and sourceFile, has also 
+been provided which contains a description of the data and 
+information on the data source.
+
+Using the techniques and methods you have learned so far in
+this course, you will investigate these data by using appropriate
+plots, summary statistics and formal tests to provide an 
+exploratory and formal analysis of these data for two of the 
+cities.
+
+Please see the information at the top of Question 5 to find the 
+two cities you have been allocated for the purposes of this 
+project. For the remainder of this project please only use your
+allocated cities.
+
+Please upload any relevant plots, summary tables, and
+statistical output (not R-code), alongside written comments to 
+answer each of the following questions. You should also 
+consider transformations of the data, where relevant.  Make 
+sure to include written comments for all summary and 
+statistical output produced to answer the questions of interest.
+
+For each question, please upload a single file of solutions
+(ideally a PDF) in the respective upload box. You should not 
+upload your R-code.
