@@ -1,0 +1,7 @@
+1. Summarise the data in the price column for each of your 
+allocated cities. (2 marks)
+2. Produce a one-sample confidence interval for the population
+mean price for each of your allocated cities. (3 marks)
+3. Use a two-sample t-test to investigate the hypothesis that
+the population mean prices are different for your two cities. (4 
+marks)
